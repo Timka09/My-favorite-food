@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+.card {
+    width: 35%;
+    padding-left: 15%;
+    padding-right: 15%;
+    border: 3px dashed green;
+    background-color: gray;
+}
+
+img {
+    width: 35%
+}
+
