@@ -1,17 +1,4 @@
-html,
-body {
-    height: 100%;
-    width: 100%;
+body{
+background-color:rgb(110, 12, 238);
+border: solid green;
 }
-.card {
-    width: 35%;
-    padding-left: 15%;
-    padding-right: 15%;
-    border: 3px dashed green;
-    background-color: gray;
-}
-
-img {
-    width: 35%
-}
-
